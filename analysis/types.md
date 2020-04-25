@@ -297,7 +297,7 @@ type.UINT.size=32
 
 Now there is an optional entry:
 
-`X.type.pointto=Y`
+`type.X.pointto=Y`
 
 This one may only be used in case of pointer `type.X=p`, one good example is LPFILETIME definition,
 it is a pointer to `_FILETIME` which happens to be a structure.
