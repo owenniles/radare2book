@@ -2,8 +2,7 @@
 *.swo
 *.un~
 publish.sh
-_book/
-_book/*
+_r2book/
 .*.swp
 .*.swo
 *.un~
